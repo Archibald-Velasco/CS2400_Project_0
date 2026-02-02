@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Java
+*.class
+bin/
+out/
+target/
+
+# Logs
+*.log
+*.tmp
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+*.iml
